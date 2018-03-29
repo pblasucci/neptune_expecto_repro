@@ -1,0 +1,6 @@
+storage: none
+
+source https://www.nuget.org/api/v2
+nuget expecto
+nuget microsoft.net.test.sdk
+nuget yolodev.expecto.testsdk
